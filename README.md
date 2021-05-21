@@ -1,0 +1,1 @@
+# stocks-near-support-notifier
